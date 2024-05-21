@@ -36,3 +36,4 @@ void DeleteDigit(string& str)
   output.close();
 }
 */
+//hitgub
